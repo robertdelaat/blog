@@ -1,6 +1,7 @@
 # Shared blogs on Oracle, OCI, general technology
 
-# Care to join?
+---
+### Care to join?
 You can create a blog :
 * Make sure to create a directory formatted as "yyyy-mm-dd"
 * Create at least a index.md
