@@ -1,7 +1,7 @@
 ---
 title: Zou deze zichtbaar worden?
 description: Dit is ontroerend mooi.
-slug: Met een mooi eslug regel
+slug: Met een mooie slug regel
 image: https://i.imgur.com/mErPwqL.png
 hide_table_of_contents: false
 authors: [robert]
